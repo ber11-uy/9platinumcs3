@@ -18,24 +18,6 @@ Inheritance can be useful if the store has different kinds of products. For exam
 
 Polymorphism can be used when different types of products need to perform the same action in different ways. For example, both `FoodProduct` and `DrinkProduct` could have a `display_info()` method, but each one could display information differently. This allows the program to use the same method while still handling different types of products.
 
-## Simple Class Representation
-
-```text
-              Product
-        ┌──────────────────┐
-        │ name             │
-        │ price            │
-        │ quantity         │
-        ├──────────────────┤
-        │ sell_product()   │
-        │ restock_product()│
-        │ display_info()   │
-        └────────┬─────────┘
-                 │
-        ┌────────┴─────────┐
-        │                  │
-   FoodProduct       DrinkProduct
-```
 
 ## Reflection
 
