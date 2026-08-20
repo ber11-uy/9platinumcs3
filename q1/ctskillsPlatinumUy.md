@@ -1,7 +1,7 @@
 # Annex A
 # Computational Thinking Exercise: "Smart School Canteen Queue"
 
-**Section:** Your Section  
+**Section:** 9-Platinum  
 **Name:** Amber Gail C. Uy  
 **Date:** August 21, 2026  
 
