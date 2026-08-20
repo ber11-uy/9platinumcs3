@@ -1,7 +1,7 @@
 # 9platinumcs3
 # Hello, World!
 
-### `amber is gail is c. is uy`
+### `am is ber is gail is c. is uy`
 
 > *a little corner of the internet where amber stresses over CS 3*
 
