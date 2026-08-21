@@ -35,7 +35,7 @@ The 12 Chinese Zodiac signs are:
 
 ```python
 # Name: Amber Gail C. Uy
-# Grade & Section: 9-________
+# Grade & Section: 9-Platinum
 # Date: August 21, 2026
 # Coding Exercise: Chinese Zodiac Sign
 
