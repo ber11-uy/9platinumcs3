@@ -27,7 +27,7 @@ Melodyssey represents the journey of a listener through a piece of music, focusi
 | `displayJourney()` | Displays the important information about the musical journey |
 
 ## Class Diagram
-<img width="576" height="682" alt="classDiagram" src="https://github.com/user-attachments/assets/f03b5cc7-a6a7-45e8-9511-1a134e3dd64b" />
+![Class Diagram](images/classDiagram.png) 
 
 
 ## Design Explanation
