@@ -25,4 +25,8 @@ agcuy@brc.pshs.edu.ph
 
 ### OOP Concept
 [View my ILA 3-1: Applying the Four Pillars of OOP](q1/ila_oop.md)
+
+[View my OOP Activity 1](q1/oopact1PlatinumUy.py)
+
+### OOP Seed System
 [View my My OOP Seed System](q1/classObjectUML.md)
