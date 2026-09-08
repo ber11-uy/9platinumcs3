@@ -29,6 +29,6 @@ agcuy@brc.pshs.edu.ph
 [View my OOP Activity 1](q1/oopact1PlatinumUy.py)
 
 ### OOP Seed System
-[View my My OOP Seed System](q1/classObjectUML.md)
+[View my OOP Seed System](q1/classObjectUML.md)
 
 [View my OOP Seed System 2](q1/classAttributesMethods.md)
