@@ -16,7 +16,6 @@ Melodyssey represents the journey of a listener through a piece of music, focusi
 | `endingMood` | `string` | The emotional mood reached at the end of the music |
 | `energyLevel` | `int` | Represents how energetic the music feels, from 1 to 10 |
 | `duration` | `double` | The length of the musical piece in minutes |
-| `hasClimax` | `boolean` | Indicates whether the music contains a noticeable emotional or musical climax |
 
 ## Methods
 
