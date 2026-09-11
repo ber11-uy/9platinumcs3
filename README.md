@@ -32,3 +32,5 @@ agcuy@brc.pshs.edu.ph
 [View my OOP Seed System](q1/classObjectUML.md)
 
 [View my OOP Seed System 2](q1/classAttributesMethods.md)
+
+[View my OOP Seed System 3](q1/classRelationships.md)
