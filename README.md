@@ -36,3 +36,29 @@ agcuy@brc.pshs.edu.ph
 [View my OOP Seed System 3](q1/classRelationships.md)
 
 [View my OOP Seed System 4](q1/advancedRelationships.md)
+
+
+# 9samatcs3
+# Hello, World!
+
+### `am is ber is gail is c. is uy`
+
+> *a little corner of the internet where amber stresses over CS 3*
+
+**Name**  
+Amber Gail C. Uy
+
+**Grade & Section**  
+Grade 9 - Samat
+
+**Corporate Email**  
+acuy2030@clc.pshs.edu.ph
+
+# Quarter 2
+## Activities
+
+### FA 1 - Library Management System
+[View the code](q2/fa1_samat_uy.py)
+
+[View the output](q2/images/fa1_samat_uy.png)
+
