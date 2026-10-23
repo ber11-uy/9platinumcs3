@@ -62,3 +62,9 @@ acuy2030@clc.pshs.edu.ph
 
 [View the output](q2/images/fa1_samat_uy.png)
 
+### FA 2 - Hospital Billing System
+[View the code](q2/fa2_samat_uy.py)
+
+[View the output](q2/images/fa2_samat_uy.png)
+
+
