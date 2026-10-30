@@ -68,6 +68,6 @@ acuy2030@clc.pshs.edu.ph
 [View the output](q2/images/fa2_samat_uy.png)
 
 ### Class Attendance - Oct 30
-[View the code](q2/oct30_Samat_Doculan_Uy_Gamboa)
+[View the code](q2/oct30_Samat_Doculan_Uy_Gamboa.py)
 
 
