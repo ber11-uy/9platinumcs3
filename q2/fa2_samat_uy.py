@@ -1,8 +1,6 @@
-
-
 # FA2 - Hospital Billing System
 # Name: Amber Gail C. Uy
-# Section: 9-Platinum
+# Section: 9-Samat
 
 
 class Patient:
