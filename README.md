@@ -70,4 +70,8 @@ acuy2030@clc.pshs.edu.ph
 ### Class Attendance - Oct 30
 [View the code](q2/oct30_Samat_Doculan_Uy_Gamboa.py)
 
+### FA 3 - Science Lab Inventory System
+[View the code](q2/fa3_samat_uy.py)
+
+[View Task 5 output](q2/images/task5_samat_uy.png)
 
